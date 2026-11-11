@@ -5,7 +5,7 @@
 - Claude Opus 5.5 (`claude-opus-5-5`), en la aplicación Claude Code, entre el 7 y el 11 de noviembre de 2026. Con este modelo se hizo el trabajo que se describe abajo.
 - Otros modelos, como Claude Sonnet, en chats aparte para consultar términos, conceptos y código.
 
-**Porcentaje de ayuda:** *(completar)*
+**Porcentaje de ayuda:** 70 %. Claude escribió y ejecutó el código y redactó los textos. Las decisiones, el análisis de los modelos y las conclusiones fueron del equipo; sin ellas, el código no tendría sentido ni dirección.
 
 ## Cómo se trabajó
 
