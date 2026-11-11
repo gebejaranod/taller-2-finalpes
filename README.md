@@ -2,7 +2,7 @@
 
 Curso MINE-4101 Ciencia de Datos Aplicada, Universidad de los Andes, 2026-20.
 
-**Integrantes:** *(completar)*
+**Integrantes:** Pablo Hoyos Guzmán y Gabriel Esteban Bejarano Delgado
 
 FinAlpes quiere una herramienta que prediga qué clientes de un banco están en riesgo de irse, para ofrecerles una campaña de retención. El taller entrena y compara tres modelos con un dataset de clientes europeos, explica cómo decide el modelo elegido (Random Forest) y calcula cuánto le costaría y cuánto le ganaría a un banco de 20.000 clientes.
 
