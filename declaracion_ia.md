@@ -26,7 +26,6 @@ Hubo una primera versión del taller que Claude generó a partir de una instrucc
 | 5. Generación de valor | Pidió fuentes de menos de tres años, redujo el equipo de implementación y definió las tablas de costos y de recuperación | Buscó y verificó las fuentes en la web y calculó los costos y el tiempo de recuperación |
 | 6. Presentación | Definió las cuatro diapositivas y lo que muestra cada una | Construyó la presentación en HTML |
 | 7. Esta declaración | Pidió una declaración corta, enfocada en el proceso, y la revisó | La redactó a partir de la conversación |
-| Entrega | Pidió armar el repositorio y publicarlo | Armó la carpeta de entrega y el README, y publicó el repositorio en GitHub |
 
 Claude también verificó con los datos las afirmaciones del equipo antes de dejarlas en el notebook. Todas las cifras del notebook salen del código ejecutado.
 
